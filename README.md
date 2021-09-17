@@ -8,4 +8,4 @@ querer eliminarlos donde al parecer, el nodo se mantiene y genera un error donde
 por lo que vi, esto se ocasiona cuando se hacen mas de 3 balanceos en el árbol.
 
 ## **ES NECESARIO TENER LA LIBRERIA DE ALLEGRO Y PONER LAS FONTS EN LA CARPETA DEL DEBUG**
-## GCC
+
